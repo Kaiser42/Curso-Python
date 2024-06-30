@@ -4,26 +4,14 @@
   <img src="https://github.com/Kaiser42/Curso-Python/assets/172440621/6eb6f9f5-ddcc-4494-b74c-810bff7a753f" alt="Universidad Python" width="600"/>
 </p>
 
-## Descripción
+## Descripción del curso
 El Mejor y más completo curso de Python en todo Udemy - Universidad Python de Cero a Experto con +71 hrs de video, +226,522 alumnos inscritos al curso. Este es el mejor curso para aprender Python de Cero a Experto incluyendo los Frameworks de Django y Flask, con una calificación promedio de 4.6 (de 5 estrellas).
 
 Aprenderás Python desde las bases, NO necesitas ningún tipo de experiencia programando, iremos avanzando desde lo más básico hasta llegar a niveles intermedios y avanzados, todo en este mismo curso, la Universidad Python.
 
-## Requisitos
-- No se requiere ningún conocimiento previo de programación
-- Sólo se requiere una computadora, cualquier sistema operativo funciona con Python
-
-## Lo que aprenderás
-- Programación desde cero hasta experto
-- Programación Orientada a Objetos (POO) con Python
-- Conexión a Bases de Datos con Python y Postgresql
-- Creación de Aplicaciones de Escritorio GUI con Tkinter y PySide (Qt)
-- Creación de aplicaciones Web con Django y Flask
-- Manejo de HTML y CSS
-
 ## Contenido del curso
 
-### Fundamentos de Python con PyCharm
+### Fundamentos de Python con PyCharm :100:
 - Introducción a Python
 - Manejo de Variables y Operadores
 - Sentencias de Control If-Else, Ciclos While y For
