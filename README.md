@@ -1,7 +1,8 @@
 # Universidad Python - De Cero a Experto Más Completo +71 hrs
 
-![Universidad Python](https://github.com/Kaiser42/Curso-Python/assets/172440621/6eb6f9f5-ddcc-4494-b74c-810bff7a753f)
-)
+<p align="center">
+  <img src="https://github.com/Kaiser42/Curso-Python/assets/172440621/6eb6f9f5-ddcc-4494-b74c-810bff7a753f" alt="Universidad Python" width="600"/>
+</p>
 
 ## Descripción
 El Mejor y más completo curso de Python en todo Udemy - Universidad Python de Cero a Experto con +71 hrs de video, +226,522 alumnos inscritos al curso. Este es el mejor curso para aprender Python de Cero a Experto incluyendo los Frameworks de Django y Flask, con una calificación promedio de 4.6 (de 5 estrellas).
