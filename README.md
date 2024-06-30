@@ -67,5 +67,3 @@ Este curso incluye un certificado de finalización tras completar todas las secc
 
 ## Instructores
 **Ing. Ubaldo Acosta** - Fundador de Global Mentoring
-
-#![Certificado](path_to_your_image)
